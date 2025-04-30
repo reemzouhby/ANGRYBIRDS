@@ -1,6 +1,6 @@
 # 🐦 Angry Birds Clone (Python Project)
 
-This is a simplified version of the popular **Angry Birds** game developed using Python and the `pygame` library. The project was created during my internship at University (sem 6) to explore basic physics simulation, object interaction, and game development principles.
+This is a simplified version of the popular **Angry Birds** game developed using Python and the `pygame` library. The project was created during my study at University (sem 6) to explore basic physics simulation, object interaction, and game development principles.
 
 ## 🎮 Game Features
 
@@ -11,7 +11,7 @@ This is a simplified version of the popular **Angry Birds** game developed using
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python**
 - **Pygame** – For rendering and game loop
 - **Math / Physics** – Basic projectile and gravity simulation
 
